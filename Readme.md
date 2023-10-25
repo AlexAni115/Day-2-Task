@@ -1,0 +1,1 @@
+This blog contains difference between Window Object and Document object.

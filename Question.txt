@@ -1,0 +1,25 @@
+Difference between Document Object and Window object:-
+
+Document and Windows objects both look similar but have entirely different purposes.
+
+Document object :-
+It is called as the DOM(Document object model)
+It is the entry point to the content of webpage and allows access to various elements within the Document
+It is an interface that represents a document as a structured group of nodes and objects.
+It allows the program to access and modify the content, style and structure of the document dynamically
+
+Features;
+1. Access to Elements: It allows developers to access the elements and retrieve specific elements from HTML structure.
+2. Manipulation of content: DOM allows developers to  create, modify and remove elements and content within the document.
+3. Event handling: It facilitates the execution of specific functions in response to user action or system events by attaching the event listeners to various elements.
+
+Window Object :-
+It represents the current browser or tab that displays the documents
+Document object will be within the window object like a container
+
+Features:
+1. Global Scope: All global JAVASCRIPT objects, variables and functions are part of the window object.
+2. Browser interaction: WIndows Object allows interaction within the browser.
+3. Timers and Intervals: It allows execution of functions at specific intervals or after some delay
+
+
